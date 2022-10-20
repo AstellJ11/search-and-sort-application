@@ -1,5 +1,5 @@
 
-# Algorithms And Complexity - Search & Sort Application (CMP1124M_Assessment_02)
+# Algorithms and Complexity - Search and Sort Application (CMP1124M_Assessment_02)
 
 
 ## Overview
